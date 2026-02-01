@@ -3,12 +3,10 @@ Read input values:
 Python:
 
 name = input("Enter name:")
-print(name)
 
 
 x=int(input("Enter a number:"))
 y=int(input("Enter a number:"))
-print(x+y)
 
 
 
