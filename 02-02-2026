@@ -1,0 +1,30 @@
+addition of 2 numbers:
+
+In python:
+
+num1=int(input("Enter the first number:"))
+num2=int(input("Enter the second number:"))
+sum=num1+num2
+print("Total:"sum)
+
+
+In C program:
+
+#include <stdio.h>
+
+int main(){
+    int num1,num2;
+    int total;
+
+    printf("Enter the first number:");
+    scanf("%d",&num1);
+
+    printf("Enter the second number:");
+    scanf("%d",&num2);
+
+    total=num1+num2;
+
+    print("Total = %D",total);
+    
+    return 0;
+}
