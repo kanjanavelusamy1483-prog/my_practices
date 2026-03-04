@@ -1,18 +1,3 @@
-Read input values:
-
-Python:
-
-name = input("Enter name:")
-
-
-x=int(input("Enter a number:"))
-y=int(input("Enter a number:"))
-
-
-
-Program C:
-
-
 #include<stdio.h>
 int main(){
     char name[20];
