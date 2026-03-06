@@ -1,0 +1,9 @@
+#include<stdio.h>
+int main()
+{
+    inta,b,sub;
+    scanf("%d %d", &a, &b);
+    sub=a-b;    
+    printf("Subtraction of two numbers is %d",sub);
+    return 0;   
+}
